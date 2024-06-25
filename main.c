@@ -9,7 +9,7 @@ void quicksort(){
     //;laksdfj 
 }
 
-voir mergesort(){
+void mergesort(){
     //jass;lkdfj    
 }
 
