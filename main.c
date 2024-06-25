@@ -8,6 +8,11 @@ void bubblesort(){
 void quicksort(){
     //;laksdfj 
 }
+
+voir mergesort(){
+    //jass;lkdfj    
+}
+
  
 int main(){
     printf("hello world");
