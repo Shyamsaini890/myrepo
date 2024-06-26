@@ -13,6 +13,10 @@ void mergesort(){
     //jass;lkdfj    
 }
 
+void insertionSort(){
+    //insertionsort;
+}
+
  
 int main(){
     printf("hello world");
